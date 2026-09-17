@@ -30,6 +30,10 @@ Operations workspace with an ASP.NET Core API and React dashboard. The repositor
 
 Case study of an implemented attendance solution with QR registration, mobile scanning, administrative tools and a REST API. The system served more than 500 users during an educational event.
 
+## Recognition
+
+In September 2025, I received an official letter of appreciation from I.E. Ignacio Merino in Talara for collaborating on mobile applications for the NutriMix and Constructech student projects.
+
 ## What I am looking for
 
 I am open to junior backend, software development and paid internship opportunities, especially with remote or hybrid teams. I am continuing to strengthen PostgreSQL, API security, testing and technical English.
