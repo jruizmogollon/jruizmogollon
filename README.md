@@ -1,35 +1,40 @@
 # Hi, I'm José Ruiz 👋
 
-Software developer from Peru focused on building useful products with Flutter, C# and ASP.NET Core.
+Backend-focused software developer from Peru. I build small, practical systems with C#, ASP.NET Core and relational databases.
 
-I enjoy turning real operational problems into simple, maintainable systems. I am especially interested in backend development, mobile applications and software architecture.
+I like working on the part of a product that has to be clear and reliable: API endpoints, business rules, data persistence, validation and tests. I also have previous experience supporting users and solving technical incidents.
 
-## What I work with
+## Main tools
 
-- Flutter and Dart for cross-platform mobile apps
-- C# and ASP.NET Core for APIs and business systems
-- REST APIs, SQL Server and relational data modeling
-- React for practical web dashboards
-- Testing, documentation and modular architecture
+- C# and ASP.NET Core for REST APIs
+- Entity Framework Core, SQLite, SQL Server and PostgreSQL/Supabase
+- React for simple web dashboards
+- GitHub Actions, automated tests and API documentation
+- Flutter and Dart in projects that include a mobile client
 
-## Featured work
+## Projects
 
-### OpsFlow Platform
+### [FieldOps Safety API](https://github.com/jruizmogollon/fieldops-safety-api)
 
-A service-operations platform built as a modular monolith. It includes a ticket workflow, REST API, React dashboard, health checks, automated tests and a GitHub Actions pipeline.
+REST API for registering and tracking safety incidents in field operations. Includes validation, local persistence, optional PostgreSQL/Supabase configuration, HTTP tests and continuous integration.
 
-→ [View OpsFlow Platform](https://github.com/jruizmogollon/opsflow-platform)
+### [Maintenance Workorders API](https://github.com/jruizmogollon/maintenance-workorders-api)
 
-### UGEL Attendance System
+Small API for maintenance work orders. It models a process that is easy to understand in interviews: create work orders, filter them, view details and update their status.
 
-An implemented attendance solution combining a web portal, QR scanner mobile app, administrative desktop panel and REST API. The repository contains the project case study and technical evidence.
+### [OpsFlow Platform](https://github.com/jruizmogollon/opsflow-platform)
 
-→ [View the case study](https://github.com/jruizmogollon/ugel-attendance-system-portfolio)
+Operations workspace with an ASP.NET Core API and React dashboard. The repository also includes a Flutter technician client, tests, health checks and a GitHub Actions pipeline.
 
-## Currently improving
+### [UGEL Attendance System](https://github.com/jruizmogollon/ugel-attendance-system-portfolio)
 
-I am building portfolio projects that show complete development work: requirements, architecture, implementation, testing and deployment. My goal is to contribute to international software teams as a developer and grow toward software architecture.
+Case study of an implemented attendance solution with QR registration, mobile scanning, administrative tools and a REST API. The system served more than 500 users during an educational event.
+
+## What I am looking for
+
+I am open to junior backend, software development and paid internship opportunities, especially with remote or hybrid teams. I am continuing to strengthen PostgreSQL, API security, testing and technical English.
 
 ## Contact
 
-The best way to reach me is through GitHub. More project documentation and demos will be added as each project becomes ready.
+- LinkedIn: [isaacruiz04](https://linkedin.com/in/isaacruiz04)
+- GitHub: [jruizmogollon](https://github.com/jruizmogollon)
